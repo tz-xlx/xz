@@ -1,0 +1,30 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "4625337",
+      "name": "美女",
+      "font_class": "meinv",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    },
+    {
+      "icon_id": "5266307",
+      "name": "健身-美女-女性-女生-beauty-g",
+      "font_class": "jianshen-meinv-nvxing-nvsheng-beauty-g",
+      "unicode": "e65f",
+      "unicode_decimal": 58975
+    },
+    {
+      "icon_id": "6638075",
+      "name": "美女管家",
+      "font_class": "meinvguanjia",
+      "unicode": "e62e",
+      "unicode_decimal": 58926
+    }
+  ]
+}
